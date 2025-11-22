@@ -177,7 +177,7 @@ footer{
 }
 
 #products .category ul {
-  display: flex:;
+  display: flex;
   gap: 1ram;
   list-style: none;
   justify-content: center;
